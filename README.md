@@ -5,11 +5,11 @@ A full-stack chat application with user authentication, conversations, and real-
 
 ## 🌟 Features
 
-User Authentication (Register, Login, Logout)
-Real-Time Chat with Conversations
-Dashboard to View and Select Chats
-Modular and Scalable File Structure
-Responsive UI
+- User Authentication (Register, Login, Logout)
+- Real-Time Chat with Conversations
+- Dashboard to View and Select Chats
+- Modular and Scalable File Structure
+- Responsive UI
 
 ## 🚀 Getting Started
 
